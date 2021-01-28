@@ -34,7 +34,7 @@
 ## Solution: 
 
 `HINTS`: 
-    - [DENSE_RANK](https://www.sqlshack.com/overview-of-sql-rank-functions/)
+- [DENSE_RANK](https://www.sqlshack.com/overview-of-sql-rank-functions/)
 
 
 ```sql

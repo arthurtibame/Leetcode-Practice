@@ -1,6 +1,6 @@
 # [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
 
-## Table: Logs
+#### Table: Logs
 
 ```
 +-------------+---------+
@@ -12,7 +12,7 @@
 id is the primary key for this table.
 ```
 
-## Write an SQL query to find all numbers that appear at least three times consecutively. Return the result table in any order. The query result format is in the following example:
+#### Write an SQL query to find all numbers that appear at least three times consecutively. Return the result table in any order. The query result format is in the following example:
 
 ```
 Logs table:
